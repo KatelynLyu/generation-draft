@@ -13,7 +13,7 @@ draft and other images shows here<br>
 感觉细节上问题都存在欸(⁎⁍̴̛ᴗ⁍̴̛⁎)
 ****
 # 2023-4，进行了video生成的探索<br>
-video1:龙猫走路
-https://user-images.githubusercontent.com/110769557/233984125-eceed0b1-bea4-40ce-9801-9b095a79e48c.mp4
-video2:赛博朋克风格化的龙猫走路
-https://user-images.githubusercontent.com/110769557/233984372-99e020b7-c878-4310-9fa2-72c70c1eb3cb.mp4
+video1:龙猫走路<br>
+https://user-images.githubusercontent.com/110769557/233984125-eceed0b1-bea4-40ce-9801-9b095a79e48c.mp4<br>
+video2:赛博朋克风格化的龙猫走路<br>
+https://user-images.githubusercontent.com/110769557/233984372-99e020b7-c878-4310-9fa2-72c70c1eb3cb.mp4<br>
